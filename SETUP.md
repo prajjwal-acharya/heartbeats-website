@@ -27,8 +27,8 @@ A modern, visually stunning website for HeartBeats, an Indian Fusion band from N
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd heartbeats---indian-fusion-experience
+git clone https://github.com/prajjwal-acharya/heartbeats-website.git
+cd heartbeats-website
 ```
 
 ### 2. Install Dependencies
@@ -94,7 +94,7 @@ VITE_GEMINI_API_KEY=your_gemini_api_key
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open [http://localhost:3000](http://localhost:3000) in your browser (port may vary if already in use).
 
 ---
 
